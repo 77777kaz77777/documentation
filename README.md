@@ -19,7 +19,8 @@ documentation-and-cheat-sheets/
 │   ├── Fedora_KDE_GRUB_Btrfs_Advanced.md                   # Fedora KDE - Advanced GRUB Btrfs Configuration & Troubleshooting
 │   ├── Fedora_KDE_GRUB_Btrfs_Integration.md                # Fedora KDE - GRUB Btrfs Snapshot Integration Guide
 │   ├── Fedora_KDE_SSD_Formatting_Btrbk.md                  # Fedora KDE - Secondary SSD Formatting & Automated Btrbk Runbook
-│   └── Fedora_Linux_Btrfs_Recovery.md                      # Fedora Linux - Command-Line Btrfs Recovery Methods
+│   ├── Fedora_Linux_Btrfs_Recovery.md                      # Fedora Linux - Command-Line Btrfs Recovery Methods
+│   └── Fedora_SELinux_Cheat_Sheet.md                       # Fedora Linux SELinux Cheat Sheet
 ├── 📁 linux-general/
 │   └── cheatsheet-for-linux.md                             # **Package Management Cheat Sheet**
 ├── 📁 networking-and-security/
