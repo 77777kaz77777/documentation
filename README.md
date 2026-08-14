@@ -23,6 +23,7 @@ documentation-and-cheat-sheets/
 │   └── Fedora_SELinux_Cheat_Sheet.md                       # Fedora Linux SELinux Cheat Sheet
 ├── 📁 linux-general/
 │   ├── Linux_Systemd_Cheat_Sheet.md                        # Linux Systemd Service & Management Cheat Sheet
+│   ├── Vim_Vi_Editor_Cheat_Sheet.md                        # Vi / Vim Text Editor Cheat Sheet
 │   └── cheatsheet-for-linux.md                             # **Package Management Cheat Sheet**
 ├── 📁 networking-and-security/
 │   ├── Pentesting_Toolkit_Cheat_Sheet.md                   # Penetration Testing Toolkit Cheat Sheet
