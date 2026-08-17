@@ -24,6 +24,7 @@ documentation-and-cheat-sheets/
 │   ├── Fedora_SELinux_Cheat_Sheet.md                            # Fedora Linux SELinux Cheat Sheet
 │   └── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
 ├── 📁 linux-general/
+│   ├── Fastfetch_Configuration_Guide.md                         # Fastfetch Configuration & Customization Guide
 │   ├── Linux_Systemd_Cheat_Sheet.md                             # Linux Systemd Service & Management Cheat Sheet
 │   ├── Linux_Upstream_Midstream_Downstream_Explained.md         # Open Source Software Flow: Upstream, Midstream, and Downstream
 │   ├── Vim_Vi_Editor_Cheat_Sheet.md                             # Vi / Vim Text Editor Cheat Sheet
