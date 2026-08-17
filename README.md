@@ -20,7 +20,8 @@ documentation-and-cheat-sheets/
 │   ├── Fedora_KDE_GRUB_Btrfs_Integration.md                     # Fedora KDE - GRUB Btrfs Snapshot Integration Guide
 │   ├── Fedora_KDE_SSD_Formatting_Btrbk.md                       # Fedora KDE - Secondary SSD Formatting & Automated Btrbk Runbook
 │   ├── Fedora_Linux_Btrfs_Recovery.md                           # Fedora Linux - Command-Line Btrfs Recovery Methods
-│   └── Fedora_SELinux_Cheat_Sheet.md                            # Fedora Linux SELinux Cheat Sheet
+│   ├── Fedora_SELinux_Cheat_Sheet.md                            # Fedora Linux SELinux Cheat Sheet
+│   └── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
 ├── 📁 linux-general/
 │   ├── Linux_Systemd_Cheat_Sheet.md                             # Linux Systemd Service & Management Cheat Sheet
 │   ├── Vim_Vi_Editor_Cheat_Sheet.md                             # Vi / Vim Text Editor Cheat Sheet
