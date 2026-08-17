@@ -25,6 +25,7 @@ documentation-and-cheat-sheets/
 │   └── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
 ├── 📁 linux-general/
 │   ├── Linux_Systemd_Cheat_Sheet.md                             # Linux Systemd Service & Management Cheat Sheet
+│   ├── Linux_Upstream_Midstream_Downstream_Explained.md         # Open Source Software Flow: Upstream, Midstream, and Downstream
 │   ├── Vim_Vi_Editor_Cheat_Sheet.md                             # Vi / Vim Text Editor Cheat Sheet
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
 │   └── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
