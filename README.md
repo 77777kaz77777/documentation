@@ -23,7 +23,8 @@ documentation-and-cheat-sheets/
 │   ├── Fedora_Linux_Btrfs_Recovery.md                           # Fedora Linux - Command-Line Btrfs Recovery Methods
 │   ├── Fedora_SELinux_Cheat_Sheet.md                            # Fedora Linux SELinux Cheat Sheet
 │   ├── KDE_Plasma_6_Multi_Monitor_Troubleshooting.md            # KDE Plasma 6 Multi-Monitor Troubleshooting Guide
-│   └── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
+│   ├── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
+│   └── fix-mux-plymouth-deadlock.md                             # Fixing MUX / Plymouth Boot Deadlock
 ├── 📁 linux-general/
 │   ├── Fastfetch_Configuration_Guide.md                         # Fastfetch Configuration & Customization Guide
 │   ├── Linux_Export_Command_Guide.md                            # Deep Dive: Linux `export` Command & Environment Variables
