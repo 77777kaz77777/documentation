@@ -15,6 +15,7 @@ documentation-and-cheat-sheets/
 │   ├── lxc-cheatsheet.md                                        # **📦 LXC/LXD Essentials**
 │   └── podman-cheatsheet.md                                     # **🐳 Podman Command Line Cheat Sheet**
 ├── 📁 fedora/
+│   ├── Fedora_DNF5_Tailscale_Repository_Fix.md                  # Fedora 41+ (DNF5) Tailscale Repository Setup & Syntax Guide
 │   ├── Fedora_Firewall_Cheat_Sheet.md                           # Fedora Linux Firewall (Firewalld) Cheat Sheet
 │   ├── Fedora_KDE_GRUB_Btrfs_Advanced.md                        # Fedora KDE - Advanced GRUB Btrfs Configuration & Troubleshooting
 │   ├── Fedora_KDE_GRUB_Btrfs_Integration.md                     # Fedora KDE - GRUB Btrfs Snapshot Integration Guide
