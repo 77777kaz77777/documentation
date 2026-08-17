@@ -13,7 +13,8 @@ documentation-and-cheat-sheets/
 ├── 📁 containers/
 │   ├── Docker_CLI_Compose_Cheat_Sheet.md                        # Docker CLI & Compose Cheat Sheet
 │   ├── lxc-cheatsheet.md                                        # **📦 LXC/LXD Essentials**
-│   └── podman-cheatsheet.md                                     # **🐳 Podman Command Line Cheat Sheet**
+│   ├── podman-cheatsheet.md                                     # **🐳 Podman Command Line Cheat Sheet**
+│   └── podman-desktop-guide.md                                  # Podman Desktop: Installation and Usage Guide
 ├── 📁 fedora/
 │   ├── Fedora_DNF5_Tailscale_Repository_Fix.md                  # Fedora 41+ (DNF5) Tailscale Repository Setup & Syntax Guide
 │   ├── Fedora_Firewall_Cheat_Sheet.md                           # Fedora Linux Firewall (Firewalld) Cheat Sheet
@@ -40,7 +41,6 @@ documentation-and-cheat-sheets/
 │   └── ufw-cheatsheet.md
 ├── 📁 virtualization/
 │   ├── Hyper-V_PowerShell_Cheat_Sheet.md                        # Hyper-V PowerShell Management Cheat Sheet
-│   ├── podman-desktop-guide.md                                  # Podman Desktop: Installation and Usage Guide
 │   ├── proxmox-cheatsheet.md                                    # **🖥️ Proxmox Virtual Machine Commands (qm)**
 │   ├── virt-manager-cheatsheet.md                               # **🖥️ Virt-Manager & Virsh Command Line Cheat Sheet**
 │   ├── virt-manager-docker-conflict.md                          # Virt-Manager and Docker: Networking Conflicts Explained
