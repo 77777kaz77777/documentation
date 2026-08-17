@@ -11,7 +11,7 @@ Write your Bash script and save it with a `.sh` extension (e.g., `update.sh`):
 ```bash
 #!/bin/bash
 echo "Updating the system..."
-sudo apt update && sudo apt upgrade -y
+sudo dnf update && sudo dnf upgrade -y
 ```
 
 ## 2. Make the Script Executable
