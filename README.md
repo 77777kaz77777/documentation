@@ -38,6 +38,7 @@ documentation-and-cheat-sheets/
 │   └── ufw-cheatsheet.md
 ├── 📁 virtualization/
 │   ├── Hyper-V_PowerShell_Cheat_Sheet.md                        # Hyper-V PowerShell Management Cheat Sheet
+│   ├── podman-desktop-guide.md                                  # Podman Desktop: Installation and Usage Guide
 │   ├── proxmox-cheatsheet.md                                    # **🖥️ Proxmox Virtual Machine Commands (qm)**
 │   ├── virt-manager-cheatsheet.md                               # **🖥️ Virt-Manager & Virsh Command Line Cheat Sheet**
 │   ├── virt-manager-docker-conflict.md                          # Virt-Manager and Docker: Networking Conflicts Explained
