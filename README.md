@@ -35,7 +35,8 @@ documentation-and-cheat-sheets/
 │   ├── SS_Command_Options_Cheat_Sheet.md                        # ss Command Options Cheat Sheet
 │   ├── Vim_Vi_Editor_Cheat_Sheet.md                             # Vi / Vim Text Editor Cheat Sheet
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
-│   └── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
+│   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
+│   └── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
 ├── 📁 networking-and-security/
 │   ├── Pentesting_Toolkit_Cheat_Sheet.md                        # Penetration Testing Toolkit Cheat Sheet
 │   └── ufw-cheatsheet.md
