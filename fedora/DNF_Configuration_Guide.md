@@ -1,5 +1,5 @@
 # DNF Configuration Guide
-
+# For the complete configuration file, please visit the linux-maintenance-and-dotfiles repository.
 This guide explains the key parameters found in `/etc/dnf/dnf.conf` to optimize Fedora's package manager for performance and reliability.
 
 ## Overview
