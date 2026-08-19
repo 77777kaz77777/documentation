@@ -27,6 +27,7 @@ documentation-and-cheat-sheets/
 │   ├── KDE_Plasma_6_Multi_Monitor_Troubleshooting.md            # KDE Plasma 6 Multi-Monitor Troubleshooting Guide
 │   ├── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
 │   ├── dnf-speed-optimization-guide.md                          # Document Name: dnf-speed-optimization-guide.md
+│   ├── dnf_command_reference.md                                 # DNF Command Reference Guide
 │   ├── fedora-nvidia-install-guide.md
 │   └── fix-mux-plymouth-deadlock.md                             # Fixing MUX / Plymouth Boot Deadlock
 ├── 📁 linux-general/
