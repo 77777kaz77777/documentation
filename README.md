@@ -41,6 +41,7 @@ documentation-and-cheat-sheets/
 │   ├── Linux_Ventoy_USB_Creation_Guide.md                       # How to Create a Ventoy USB on Fedora Linux
 │   ├── NVIDIA_CUDA_Monitoring_Cheat_Sheet.md                    # NVIDIA & CUDA Monitoring Cheat Sheet
 │   ├── SS_Command_Options_Cheat_Sheet.md                        # ss Command Options Cheat Sheet
+│   ├── Sublime_Text_Linux_Shortcuts.md                          # Sublime Text Shortcuts (Linux)
 │   ├── Vim_Vi_Editor_Cheat_Sheet.md                             # Vi / Vim Text Editor Cheat Sheet
 │   ├── apk_command_reference.md                                 # APK Command Reference Guide (Alpine Linux / Containers)
 │   ├── apt_command_reference.md                                 # APT Command Reference Guide
