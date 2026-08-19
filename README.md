@@ -35,6 +35,7 @@ documentation-and-cheat-sheets/
 ├── 📁 linux-general/
 │   ├── Fastfetch_Configuration_Guide.md                         # Fastfetch Configuration & Customization Guide
 │   ├── Git_Dotfiles_Maintenance_Cheat_Sheet.md                  # Git Dotfiles & Maintenance Scripts Cheat Sheet
+│   ├── KDE_Plasma_Wayland_Shortcuts_Cheat_Sheet.md              # KDE Plasma (Wayland) Shortcuts & Control Cheat Sheet
 │   ├── Linux_Export_Command_Guide.md                            # Deep Dive: Linux `export` Command & Environment Variables
 │   ├── Linux_Systemd_Cheat_Sheet.md                             # Linux Systemd Service & Management Cheat Sheet
 │   ├── Linux_Upstream_Midstream_Downstream_Explained.md         # Open Source Software Flow: Upstream, Midstream, and Downstream
