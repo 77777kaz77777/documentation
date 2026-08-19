@@ -23,3 +23,13 @@ Launch any application utilizing the discrete NVIDIA GPU instead of integrated g
 
 ```bash
 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia <application_executable>
+
+
+
+
+
+Common Offload Examples:
+
+    Verify Offloading: __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia glxinfo | grep "OpenGL renderer"
+
+    Launch AppImage (e.g., LM Studio): __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia ./LM-Studio.AppImage
