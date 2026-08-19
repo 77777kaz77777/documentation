@@ -43,7 +43,7 @@ documentation-and-cheat-sheets/
 │   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
 │   ├── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
 │   ├── pacman_command_reference.md                              # Pacman Command Reference Guide
-│   └── zypper_command_reference.md                              # Document Name: zypper_command_reference.md
+│   └── zypper_command_reference.md                              # Zypper Command Reference Guide (openSUSE / SUSE Linux Enterprise)
 ├── 📁 networking-and-security/
 │   ├── Pentesting_Toolkit_Cheat_Sheet.md                        # Penetration Testing Toolkit Cheat Sheet
 │   └── ufw-cheatsheet.md
