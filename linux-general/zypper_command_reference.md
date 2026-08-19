@@ -1,5 +1,3 @@
-# Document Name: zypper_command_reference.md
-
 # Zypper Command Reference Guide (openSUSE / SUSE Linux Enterprise)
 
 ## Core Package Management
