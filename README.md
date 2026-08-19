@@ -54,6 +54,7 @@ documentation-and-cheat-sheets/
 ├── 📁 networking-and-security/
 │   ├── OpenWrt_UCI_Command_Cheat_Sheet.md                       # OpenWrt UCI (Unified Configuration Interface) Cheat Sheet
 │   ├── Pentesting_Toolkit_Cheat_Sheet.md                        # Penetration Testing Toolkit Cheat Sheet
+│   ├── Tailscale_Mesh_CLI_Cheat_Sheet.md                        # Tailscale Mesh Networking Cheat Sheet
 │   └── ufw-cheatsheet.md
 ├── 📁 virtualization/
 │   ├── Hyper-V_PowerShell_Cheat_Sheet.md                        # Hyper-V PowerShell Management Cheat Sheet
