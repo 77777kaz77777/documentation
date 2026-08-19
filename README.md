@@ -25,6 +25,7 @@ documentation-and-cheat-sheets/
 │   ├── Fedora_Linux_Btrfs_Recovery.md                           # Fedora Linux - Command-Line Btrfs Recovery Methods
 │   ├── Fedora_SELinux_Cheat_Sheet.md                            # Fedora Linux SELinux Cheat Sheet
 │   ├── KDE_Plasma_6_Multi_Monitor_Troubleshooting.md            # KDE Plasma 6 Multi-Monitor Troubleshooting Guide
+│   ├── Snapper_Snapshot_Management_Cheat_Sheet.md               # Snapper Snapshot Management Cheat Sheet
 │   ├── asusctl_cheat_sheet_guide.md                             # asusctl v6.3.8 Cheat Sheet (GA503RW)
 │   ├── dnf-speed-optimization-guide.md                          # Document Name: dnf-speed-optimization-guide.md
 │   ├── dnf_command_reference.md                                 # DNF Command Reference Guide
