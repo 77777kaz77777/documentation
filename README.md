@@ -41,7 +41,8 @@ documentation-and-cheat-sheets/
 │   ├── apt_command_reference.md                                 # APT Command Reference Guide
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
 │   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
-│   └── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
+│   ├── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
+│   └── pacman_command_reference.md                              # Pacman Command Reference Guide
 ├── 📁 networking-and-security/
 │   ├── Pentesting_Toolkit_Cheat_Sheet.md                        # Penetration Testing Toolkit Cheat Sheet
 │   └── ufw-cheatsheet.md
