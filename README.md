@@ -47,6 +47,7 @@ documentation-and-cheat-sheets/
 │   ├── brew_command_reference.md                                # Homebrew Command Reference Guide (macOS / Linux Desktop)
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
 │   ├── flatpak_command_reference.md                             # Flatpak Command Reference Guide (Linux Desktop)
+│   ├── fwupdmgr_Firmware_Update_Cheat_Sheet.md                  # fwupdmgr Firmware Update Cheat Sheet
 │   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
 │   ├── ncdu_command_reference.md                                # NCDU (NCurses Disk Usage) Command Reference Guide
 │   ├── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
