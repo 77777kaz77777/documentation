@@ -42,6 +42,7 @@ documentation-and-cheat-sheets/
 │   ├── apt_command_reference.md                                 # APT Command Reference Guide
 │   ├── brew_command_reference.md                                # Homebrew Command Reference Guide (macOS / Linux Desktop)
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
+│   ├── flatpak_command_reference.md                             # Flatpak Command Reference Guide (Linux Desktop)
 │   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
 │   ├── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
 │   ├── pacman_command_reference.md                              # Pacman Command Reference Guide
