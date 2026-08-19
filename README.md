@@ -40,6 +40,7 @@ documentation-and-cheat-sheets/
 │   ├── Vim_Vi_Editor_Cheat_Sheet.md                             # Vi / Vim Text Editor Cheat Sheet
 │   ├── apk_command_reference.md                                 # APK Command Reference Guide (Alpine Linux / Containers)
 │   ├── apt_command_reference.md                                 # APT Command Reference Guide
+│   ├── brew_command_reference.md                                # Homebrew Command Reference Guide (macOS / Linux Desktop)
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
 │   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
 │   ├── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
