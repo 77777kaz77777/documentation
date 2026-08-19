@@ -44,6 +44,7 @@ documentation-and-cheat-sheets/
 │   ├── cheatsheet-for-linux.md                                  # **Package Management Cheat Sheet**
 │   ├── flatpak_command_reference.md                             # Flatpak Command Reference Guide (Linux Desktop)
 │   ├── make_bash_script_executable.md                           # How to Make a Bash Script Executable and Callable Globally
+│   ├── ncdu_command_reference.md                                # NCDU (NCurses Disk Usage) Command Reference Guide
 │   ├── nmcli-cheat-sheet.md                                     # nmcli Cheat Sheet
 │   ├── pacman_command_reference.md                              # Pacman Command Reference Guide
 │   ├── storage_management_reference.md                          # Storage Management Command Reference Guide
