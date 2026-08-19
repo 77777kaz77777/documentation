@@ -1,67 +1,259 @@
 # DNF Command Reference Guide
 
 ## Core Package Management
-*   **install:** Install software.
-*   **remove:** Remove (uninstall) software.
-*   **upgrade:** Upgrade software.
-*   **downgrade:** Downgrade software.
-*   **reinstall:** Reinstall software.
-*   **swap:** Remove software and install another in one transaction.
-*   **autoremove:** Remove all unneeded packages originally installed as dependencies.
-*   **builddep:** Install build dependencies for a package or spec file.
-*   **debuginfo-install:** Install debuginfo packages.
-*   **mark:** Change the reason for an installed package.
+
+**Install software.**
+```bash
+dnf install
+```
+
+**Remove (uninstall) software.**
+```bash
+dnf remove
+```
+
+**Upgrade software.**
+```bash
+dnf upgrade
+```
+
+**Downgrade software.**
+```bash
+dnf downgrade
+```
+
+**Reinstall software.**
+```bash
+dnf reinstall
+```
+
+**Remove software and install another in one transaction.**
+```bash
+dnf swap
+```
+
+**Remove all unneeded packages originally installed as dependencies.**
+```bash
+dnf autoremove
+```
+
+**Install build dependencies for a package or spec file.**
+```bash
+dnf builddep
+```
+
+**Install debuginfo packages.**
+```bash
+dnf debuginfo-install
+```
+
+**Change the reason for an installed package.**
+```bash
+dnf mark
+```
 
 ## Search and Information
-*   **search:** Search for software matching all specified strings.
-*   **info:** List packages depending on their relation to the system with additional details.
-*   **list:** List packages depending on their relation to the system.
-*   **provides:** Find what package provides the given value.
-*   **repoquery:** Search for packages matching various criteria.
-*   **leaves:** List groups of installed packages not required by other installed packages.
-*   **changelog:** Show package changelogs.
-*   **repoclosure:** Print a list of unresolved dependencies for repositories.
+
+**Search for software matching all specified strings.**
+```bash
+dnf search
+```
+
+**List packages depending on their relation to the system with additional details.**
+```bash
+dnf info
+```
+
+**List packages depending on their relation to the system.**
+```bash
+dnf list
+```
+
+**Find what package provides the given value.**
+```bash
+dnf provides
+```
+
+**Search for packages matching various criteria.**
+```bash
+dnf repoquery
+```
+
+**List groups of installed packages not required by other installed packages.**
+```bash
+dnf leaves
+```
+
+**Show package changelogs.**
+```bash
+dnf changelog
+```
+
+**Print a list of unresolved dependencies for repositories.**
+```bash
+dnf repoclosure
+```
 
 ## System Updates and Upgrades
-*   **check-upgrade:** Check for available package upgrades.
-*   **distro-sync:** Upgrade or downgrade installed software to the latest available versions.
-*   **system-upgrade:** Prepare the system for an upgrade to a new release.
-*   **needs-restarting:** Determine whether the system or systemd services need restarting.
+
+**Check for available package upgrades.**
+```bash
+dnf check-upgrade
+```
+
+**Upgrade or downgrade installed software to the latest available versions.**
+```bash
+dnf distro-sync
+```
+
+**Prepare the system for an upgrade to a new release.**
+```bash
+dnf system-upgrade
+```
+
+**Determine whether the system or systemd services need restarting.**
+```bash
+dnf needs-restarting
+```
 
 ## Offline Operations
-*   **offline:** Manage offline transactions.
-*   **offline-upgrade:** Store an upgrade transaction to be performed offline.
-*   **offline-distrosync:** Store a distro-sync transaction to be performed offline.
+
+**Manage offline transactions.**
+```bash
+dnf offline
+```
+
+**Store an upgrade transaction to be performed offline.**
+```bash
+dnf offline-upgrade
+```
+
+**Store a distro-sync transaction to be performed offline.**
+```bash
+dnf offline-distrosync
+```
 
 ## Repository and Configuration Management
-*   **repo:** Manage repositories.
-*   **config-manager:** Manage configuration.
-*   **copr:** Manage Copr repositories (add-ons provided by users/community/third-party).
-*   **reposync:** Synchronize a remote DNF repository to a local directory.
-*   **repomanage:** Manage a directory with repodata or with rpm packages.
-*   **makecache:** Generate the metadata cache.
-*   **clean:** Remove or expire cached data.
+
+**Manage repositories.**
+```bash
+dnf repo
+```
+
+**Manage configuration.**
+```bash
+dnf config-manager
+```
+
+**Manage Copr repositories (add-ons provided by users/community/third-party).**
+```bash
+dnf copr
+```
+
+**Synchronize a remote DNF repository to a local directory.**
+```bash
+dnf reposync
+```
+
+**Manage a directory with repodata or with rpm packages.**
+```bash
+dnf repomanage
+```
+
+**Generate the metadata cache.**
+```bash
+dnf makecache
+```
+
+**Remove or expire cached data.**
+```bash
+dnf clean
+```
 
 ## Transactions and History
-*   **do:** Do transaction.
-*   **history:** Manage transaction history.
-*   **replay:** Replay a transaction that was previously stored in a directory.
+
+**Do transaction.**
+```bash
+dnf do
+```
+
+**Manage transaction history.**
+```bash
+dnf history
+```
+
+**Replay a transaction that was previously stored in a directory.**
+```bash
+dnf replay
+```
 
 ## Group and Module Management
-*   **group:** Manage comps groups.
-*   **environment:** Manage comps environments.
-*   **module:** Manage modules.
+
+**Manage comps groups.**
+```bash
+dnf group
+```
+
+**Manage comps environments.**
+```bash
+dnf environment
+```
+
+**Manage modules.**
+```bash
+dnf module
+```
 
 ## Advanced Management
-*   **advisory:** Manage advisories.
-*   **check:** Check for problems in the packagedb.
-*   **download:** Download software to the current directory.
-*   **versionlock:** Manage versionlock configuration.
+
+**Manage advisories.**
+```bash
+dnf advisory
+```
+
+**Check for problems in the packagedb.**
+```bash
+dnf check
+```
+
+**Download software to the current directory.**
+```bash
+dnf download
+```
+
+**Manage versionlock configuration.**
+```bash
+dnf versionlock
+```
 
 ## Common Aliases
-*   **check-update:** Alias for `check-upgrade`.
-*   **grp:** Alias for `group`.
-*   **repoinfo:** Alias for `repo info`.
-*   **repolist:** Alias for `repo list`.
-*   **updateinfo:** Alias for `advisory`.
-*   **upgrade-minimal:** Alias for `upgrade --minimal`.
+
+**Alias for `check-upgrade`.**
+```bash
+dnf check-update
+```
+
+**Alias for `group`.**
+```bash
+dnf grp
+```
+
+**Alias for `repo info`.**
+```bash
+dnf repoinfo
+```
+
+**Alias for `repo list`.**
+```bash
+dnf repolist
+```
+
+**Alias for `advisory`.**
+```bash
+dnf updateinfo
+```
+
+**Alias for `upgrade --minimal`.**
+```bash
+dnf upgrade-minimal
+```
