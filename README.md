@@ -52,6 +52,7 @@ documentation-and-cheat-sheets/
 │   ├── storage_management_reference.md                          # Storage Management Command Reference Guide
 │   └── zypper_command_reference.md                              # Zypper Command Reference Guide (openSUSE / SUSE Linux Enterprise)
 ├── 📁 networking-and-security/
+│   ├── OpenWrt_UCI_Command_Cheat_Sheet.md                       # OpenWrt UCI (Unified Configuration Interface) Cheat Sheet
 │   ├── Pentesting_Toolkit_Cheat_Sheet.md                        # Penetration Testing Toolkit Cheat Sheet
 │   └── ufw-cheatsheet.md
 ├── 📁 virtualization/
