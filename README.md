@@ -34,6 +34,7 @@ documentation-and-cheat-sheets/
 │   └── fix-mux-plymouth-deadlock.md                             # Fixing MUX / Plymouth Boot Deadlock
 ├── 📁 linux-general/
 │   ├── Fastfetch_Configuration_Guide.md                         # Fastfetch Configuration & Customization Guide
+│   ├── Git_Dotfiles_Maintenance_Cheat_Sheet.md                  # Git Dotfiles & Maintenance Scripts Cheat Sheet
 │   ├── Linux_Export_Command_Guide.md                            # Deep Dive: Linux `export` Command & Environment Variables
 │   ├── Linux_Systemd_Cheat_Sheet.md                             # Linux Systemd Service & Management Cheat Sheet
 │   ├── Linux_Upstream_Midstream_Downstream_Explained.md         # Open Source Software Flow: Upstream, Midstream, and Downstream
