@@ -1,4 +1,4 @@
-```markdown
+
 # fwupdmgr Firmware Update Cheat Sheet
 
 ## Discovery and Refresh
