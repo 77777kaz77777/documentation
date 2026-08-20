@@ -1,4 +1,4 @@
-```markdown
+
 # Tailscale Mesh Networking Cheat Sheet
 
 ## Connectivity & Status
