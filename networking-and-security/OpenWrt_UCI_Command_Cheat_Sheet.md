@@ -1,4 +1,4 @@
-```markdown
+
 # OpenWrt UCI (Unified Configuration Interface) Cheat Sheet
 
 ## Core Configuration Commands
