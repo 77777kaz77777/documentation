@@ -1,4 +1,4 @@
-```markdown
+
 # KDE Plasma (Wayland) Shortcuts & Control Cheat Sheet
 
 ## KWin Window Management
